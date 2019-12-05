@@ -18,7 +18,7 @@
 
 ## RunPygame?
 
-Pygame 라이브러리를 활용하여 파이썬 OOP 공부 등 개발 역량을 키우기 위한 ToyProject입니다.
+Pygame 라이브러리를 활용하여 파이썬 OOP 공부 등 개발 역량을 키우기 위한 ToyProject입니다. 라고는 하지만 사실.. Python으로 PS하면서 게임으로 만들어 보면 어떨까? 하는 생각에 시작했해버린 RunPygame 프로젝트 입니다! :>
 
 
 
