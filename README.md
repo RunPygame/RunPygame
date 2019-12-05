@@ -1,12 +1,11 @@
 # RunPygame
 
 
-<p align="center"><img src="../../logo.png" alt="logo" style="zoom:50%;" /></p>
-
-
+<p align="center">
+<img src="README.assets/logo.png" />
+</p>
 
 <p align="center"> "We learn and run Pygame" </p>
-
 ## 목차
 
 1. [RunPygame?](#RunPygame?)
@@ -16,11 +15,10 @@
 3. 참고
 
 
+
 ## RunPygame?
 
 Pygame 라이브러리를 활용하여 파이썬 OOP 공부 등 개발 역량을 키우기 위한 ToyProject입니다.
-
-
 
 
 
@@ -29,6 +27,8 @@ Pygame 라이브러리를 활용하여 파이썬 OOP 공부 등 개발 역량을
 - 백준 시뮬레이션 영상화
 - ps 문제 게임화
 - 게임웹사이트 구축 (장고 웹서버 구축 및 배포)
+
+
 
 
 ## 참고
